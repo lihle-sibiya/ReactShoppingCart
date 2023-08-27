@@ -17,7 +17,7 @@ export default function Header(props) {
             ''
           )}
         </a>{' '}
-        <a href="#/signin"> SignIn</a>
+        <a href="#/signin"> Sign In</a>
       </div>
     </header>
   );
